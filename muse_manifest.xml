@@ -1,0 +1,84 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftp://www.pattibeavers.com" ftp_rootfolder="//pattibeavers" exportTarget="FTP" domain="www.pattibeavers.com" resolutions="1x" timestamp="1477578896772">
+  <folder name="css">
+    <file name="site_global.css" crc="3805841184"/>
+    <file name="master_a-master.css" crc="3780364437" ref="patti-s-biography:index"/>
+    <file name="patti-s-biography.css" crc="199492694" ref="patti-s-biography"/>
+    <file name="iefonts_patti-s-biography.css" crc="4230738411" ref="patti-s-biography"/>
+    <file name="index.css" crc="3855880412" ref="index"/>
+    <file name="iefonts_index.css" crc="474057123" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:patti-s-biography"/>
+    <file name="museutils.js" crc="3851988764" ref="index:patti-s-biography"/>
+    <file name="whatinput.js" crc="86476730" ref="index:patti-s-biography"/>
+    <file name="museconfig.js" crc="169177150" ref="index:patti-s-biography"/>
+    <file name="pie.js" crc="3831537696" ref="index:patti-s-biography"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:patti-s-biography"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:patti-s-biography"/>
+    <file name="require.js" crc="4108833657" ref="index:patti-s-biography"/>
+  </folder>
+  <folder name="images">
+    <file name="60415 patti top banner copy-crop-u75.jpg" crc="3896588264" ref="index:patti-s-biography"/>
+    <file name="60415 good patti 4495.jpg" crc="458575532" seo="true" ref="index:patti-s-biography"/>
+    <file name="pasted-svg-30174x89.svg" crc="3886239801" seo="true" ref="index:patti-s-biography"/>
+    <file name="pasted svg 30174x89_poster_.png" crc="3844377680" ref="index:patti-s-biography"/>
+    <file name="61115 y x620.png" crc="285741129" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="61115 a x620.png" crc="3793809267" seo="true" ref="index"/>
+    <file name="61115 n x620.png" crc="3857940693" seo="true" ref="index"/>
+    <file name="61115 q x620.png" crc="4248012266" seo="true" ref="index"/>
+    <file name="61115 t x620.png" crc="383169409" seo="true" ref="index"/>
+    <file name="61115 b x620.png" crc="271961333" seo="true" ref="index"/>
+    <file name="61115 e x620.png" crc="1959045" seo="true" ref="index"/>
+    <file name="61115 h x620.png" crc="377304257" seo="true" ref="index"/>
+    <file name="61115 w x620.png" crc="385735539" seo="true" ref="index"/>
+    <file name="61115 s x620.png" crc="3861780208" seo="true" ref="index"/>
+    <file name="61115 u x620.png" crc="4272263914" seo="true" ref="index"/>
+    <file name="61215 x620 wading in september.png" crc="4182680812" seo="true" ref="index"/>
+    <file name="102616 shadows on beaver branch oil temp.png" crc="3840191536" seo="true" ref="index"/>
+    <file name="61215 good morning indian creek oil.png" crc="337425300" seo="true" ref="index"/>
+    <file name="61115 y x620-crop-u1746.png" crc="4003868598" ref="index"/>
+    <file name="61115 a x620-crop-u1835.png" crc="3974446014" ref="index"/>
+    <file name="61115 n x620-crop-u1844.png" crc="170986518" ref="index"/>
+    <file name="61115 q x620-crop-u1853.png" crc="527538094" ref="index"/>
+    <file name="61115 t x620-crop-u1862.png" crc="3876006623" ref="index"/>
+    <file name="61115 b x620-crop-u1871.png" crc="55881372" ref="index"/>
+    <file name="61115 e x620-crop-u1880.png" crc="4160503599" ref="index"/>
+    <file name="61115 h x620-crop-u1889.png" crc="56886103" ref="index"/>
+    <file name="61115 w x620-crop-u1898.png" crc="3826069754" ref="index"/>
+    <file name="61115 s x620-crop-u1907.png" crc="409949763" ref="index"/>
+    <file name="61115 u x620-crop-u1916.png" crc="3977435806" ref="index"/>
+    <file name="61215 x620 wading in september-crop-u2063.png" crc="398459401" ref="index"/>
+    <file name="61215 shadows on beaver branch oil-crop-u2095.png" crc="3839334248" ref="index"/>
+    <file name="61215 good morning indian creek oil-crop-u2104.png" crc="211516711" ref="index"/>
+    <file name="u1752-4.png" crc="4199932218" ref="index"/>
+    <file name="u1739-4.png" crc="447259538" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="102616 patti first place.jpg" crc="211967418" seo="true" ref="patti-s-biography"/>
+    <file name="61215 patti sig bold img_2651.png" crc="3781482275" seo="true" ref="patti-s-biography"/>
+    <file name="102716 focus tall girl copy.jpg" crc="3973213091" ref="index:patti-s-biography"/>
+  </folder>
+  <file name="index.html" crc="444322017" seo="true" mt="1477578873583" redirect="true"/>
+  <file name="patti-s-biography.html" crc="4135030249" seo="true" mt="1477576152540" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U1032" master="U65">
+        <breakpoint uid="U2113" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U61" uid="U65">
+        <breakpoint uid="U2112" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U61">
+        <breakpoint uid="U2115" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Patti's Biography" filename="patti-s-biography.html" muse_href="page:U2010" master="U65">
+        <breakpoint uid="U2114" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
